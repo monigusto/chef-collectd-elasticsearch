@@ -1,6 +1,6 @@
 {
-  "name": "collectd-carbon",
-  "description": "Installs/Configures carbon writer as plugin for collectd",
+  "name": "collectd-elasticsearch",
+  "description": "Installs/Configures elasticsearch plugin for collectd",
   "long_description": "= DESCRIPTION:\n",
   "maintainer": "Patrick Debois",
   "maintainer_email": "Patrick.Debois@jedi.be",
